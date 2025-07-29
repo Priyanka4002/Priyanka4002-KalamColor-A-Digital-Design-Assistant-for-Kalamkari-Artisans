@@ -1,0 +1,2 @@
+# Priyanka4002-KalamColor-A-Digital-Design-Assistant-for-Kalamkari-Artisans
+KalamColor is a web-based tool developed to assist Machilipatnam Kalamkari artisans in selecting the most suitable color combinations for their traditional border designs before applying them to fabric. The platform helps artisans visualize the final look of their artwork digitally, thereby reducing cloth wastage and saving time.
